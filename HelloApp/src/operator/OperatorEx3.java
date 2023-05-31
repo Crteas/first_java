@@ -52,7 +52,7 @@ public class OperatorEx3 {
 				}
 			}
 		} catch(Exception e) {
-			System.out.println(e);
+			e.printStackTrace();
 		}
 		System.out.println("end of prog");
 	}
